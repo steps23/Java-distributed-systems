@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"stefano_ruggiero_assegnamento_3"}];updateSearchResults();
